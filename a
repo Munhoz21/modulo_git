@@ -1,0 +1,35 @@
+[33mcommit 0c24e71e5f9f7c264a835c069512e37818d51c65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lucas <teste@teste.com>
+Date:   Mon Jun 10 11:34:36 2024 -0300
+
+    incluindo changelog
+
+ changelog.md | 90 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 90 insertions(+)
+
+[33mcommit 09e5eedf8123553da8348a170b13ebeb76ff4884[m
+Author: Lucas <teste@teste.com>
+Date:   Mon Jun 10 11:22:12 2024 -0300
+
+    colocando acentuação no arquivo.txt
+
+ arquivo.txt | Bin [31m32[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 8b2f9e33e6896ed06b916028f5e8dd2c428871f5[m
+Author: Lucas <teste@teste.com>
+Date:   Mon Jun 10 11:21:13 2024 -0300
+
+    alterando o conteudo de arquivo.txt
+
+ arquivo.txt | Bin [31m24[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 63c3380d7481f9b279b9749600bf6e769f1f1ead[m
+Author: Lucas <teste@teste.com>
+Date:   Mon Jun 10 11:17:04 2024 -0300
+
+    Inclusão de novos arquivos
+
+ arquivo.txt | Bin [31m0[m -> [32m24[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
